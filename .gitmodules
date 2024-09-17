@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "CompositeReliability"]
 	path = CompositeReliability
-	url = https://github.com/jmoonen/compositereliability
+	url = https://github.com/jmoonen/compositereliabilityinnesteddesigns
