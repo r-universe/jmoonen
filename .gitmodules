@@ -5,3 +5,6 @@
 [submodule "CompositeReliability"]
 	path = CompositeReliability
 	url = https://github.com/jmoonen/compositereliabilityinnesteddesigns
+[submodule "compositeReliabilityInNestedDesigns"]
+	path = compositeReliabilityInNestedDesigns
+	url = https://github.com/cran/compositeReliabilityInNestedDesigns
