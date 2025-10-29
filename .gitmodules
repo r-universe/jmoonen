@@ -10,4 +10,4 @@
 	url = https://github.com/jmoonen/compositereliabilityinnesteddesigns
 [submodule "sumup"]
 	path = sumup
-	url = https://github.com/cran/sumup
+	url = https://github.com/jmoonen/sumup
